@@ -10,3 +10,12 @@ The increased public acceptance and funding for international projects emphasise
 
 ## FLOW DIAGRAM
 ![Flow Diagram](https://github.com/aniketjambhulkar18/Sign_Language_Recognition_Group12/assets/153289381/27e2ade7-1fd9-46c7-9a94-026502198570)
+
+## SIGN LANGUAGE USED FOR TRAINING THE MODEL
+![amer_sign2](https://github.com/aniketjambhulkar18/Sign_Language_Recognition_Group12/assets/153289381/34adf58e-534e-4eae-851a-74d5265050f7)
+
+## OUTPUT
+![Output2](https://github.com/aniketjambhulkar18/Sign_Language_Recognition_Group12/assets/153289381/47f5634f-8325-4b1e-b953-01a7b3035267)
+![Output](https://github.com/aniketjambhulkar18/Sign_Language_Recognition_Group12/assets/153289381/24dad690-c10b-4390-a489-c20e69b02211)
+
+
